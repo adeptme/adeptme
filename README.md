@@ -3,7 +3,7 @@
 
 <h3>About Me</h3>
 <p align="left">- 👩🏻‍💻 I’m currently learning <strong>Frontend and Backend Web Development</strong>.</p>
-<p align="left">- 🌱 I’m interested in <strong>AI and Machine Learning</strong>.</p>
+<p align="left">- 🌱 I’m interested in <strong>Backend Development, AI, and Machine Learning</strong>.</p>
 <p align="left">- 🔭 I also ✨like✨ <strong>gaming, music, and physical activities</strong>.</p>
 
 ## 🛠 Tech Stack
